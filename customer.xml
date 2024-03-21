@@ -1,0 +1,62 @@
+<customers>
+  <customer>
+    <id>1</id>
+    <name>John Smith</name>
+    <creditcard>1234567890123456</creditcard>
+    <password>password123</password>
+  </customer>
+  <customer>
+    <id>2</id>
+    <name>Alice Johnson</name>
+    <creditcard>9876543210987654</creditcard>
+    <password>securepass321</password>
+  </customer>
+  <customer>
+    <id>3</id>
+    <name>Michael Brown</name>
+    <creditcard>1111222233334444</creditcard>
+    <password>pass1234</password>
+  </customer>
+  <customer>
+    <id>4</id>
+    <name>Emily Davis</name>
+    <creditcard>5555666677778888</creditcard>
+    <password>qwerty</password>
+  </customer>
+  <customer>
+    <id>5</id>
+    <name>David Wilson</name>
+    <creditcard>9999888877776666</creditcard>
+    <password>letmein</password>
+  </customer>
+  <customer>
+    <id>6</id>
+    <name>Sarah Martinez</name>
+    <creditcard>4444555566667777</creditcard>
+    <password>123456789</password>
+  </customer>
+  <customer>
+    <id>7</id>
+    <name>Christopher Taylor</name>
+    <creditcard>8888999911112222</creditcard>
+    <password>password</password>
+  </customer>
+  <customer>
+    <id>8</id>
+    <name>Jessica Anderson</name>
+    <creditcard>2222333344445555</creditcard>
+    <password>abc123</password>
+  </customer>
+  <customer>
+    <id>9</id>
+    <name>Ryan Thomas</name>
+    <creditcard>6666555577778888</creditcard>
+    <password>passpass</password>
+  </customer>
+  <customer>
+    <id>10</id>
+    <name>Kimberly Jackson</name>
+    <creditcard>1212121212121212</creditcard>
+    <password>password123</password>
+  </customer>
+</customers>
